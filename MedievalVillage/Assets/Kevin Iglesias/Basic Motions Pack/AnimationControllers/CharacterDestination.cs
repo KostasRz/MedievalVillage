@@ -14,7 +14,7 @@ public class CharacterDestination : MonoBehaviour
         {
             xPos = Random.Range(332, 385);
             zPos = Random.Range(514, 522);
-            this.gameObject.transform.position = new Vector3(xPos, 60.53f, zPos);
+            this.gameObject.transform.position = new Vector3(xPos, 63.01f, zPos);
         }
 
     }
