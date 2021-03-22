@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class AgentDest : MonoBehaviour
+public class AD1 : MonoBehaviour
 {
     public GameObject characterDestination;
     NavMeshAgent theAgent;
